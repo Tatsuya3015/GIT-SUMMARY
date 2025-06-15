@@ -66,4 +66,5 @@ git checkout ブランチ名
 
 ## 詳細なガイド
 - [Git & GitHub 活用の基本ステップ](./git-github-summary.md)
-- [Gitブランチ完全ガイド](./git-branch-guide.md) 
+- [Gitブランチ完全ガイド](./git-branch-guide.md)
+- [Gitコマンドショートカット集](./git-command-shortcuts.md) 
