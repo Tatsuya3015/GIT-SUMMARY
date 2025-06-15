@@ -95,4 +95,9 @@ Gitはローカル履歴管理、GitHubはクラウド共有ツール
 Command+S（ファイルの保存）をしていなければ、git add → commit → push しても、その変更内容はGitにもGitHubにも反映されません。
 - Gitはローカルで履歴管理
 - GitHubはクラウドで共有・保存
-- コマンドの順番：init → add → commit → push
+- コマンドの順番：
+1.編集（エディタ上）
+2.✅ 保存（Command+S）
+3.git add
+4.git commit
+5.git push
